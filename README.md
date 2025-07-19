@@ -1,5 +1,5 @@
 # 3MTT--Cyber-security-Reonnaissance
-# July 2025 3MTT Cybersecurity Knowledge Showcase — Reconnaissance Techniques
+# July 2025 3MTT Cybersecurity KnowledgeShowcase — Reconnaissance Techniques
 #3MTTLearningCommunity & My3MTT
 @3MTTNigeria 
 @DAHIRU MUSA ADAMU
@@ -49,5 +49,5 @@ A sample scan was conducted on a test environment to show enumeration techniques
 This showcase emphasized the power of reconnaissance as the first step in understanding a target system. Ethical hackers must master these tools to prepare for deeper security assessments.
 
 ## 🙌 Credits
-Built by M as part of the 3MTT July 2025 cohort.
+Built by DAHIRU MUSA ADAMU as part of the 3MTT July Knowledge showcase 2025 cohort3.
 Special thanks to [Mentor Name], and the 3MTT Cybersecurity community.
