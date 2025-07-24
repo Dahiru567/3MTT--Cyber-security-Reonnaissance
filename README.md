@@ -1,6 +1,6 @@
 # 3MTT--Cyber-security-Reonnaissance
 # July 2025 3MTT Cybersecurity KnowledgeShowcase — Reconnaissance Techniques
-#3MTTLearningCommunity & My3MTT
+#3MTTLearningCommunity @My3MTT
 @3MTTNigeria 
 @DAHIRU MUSA ADAMU
 @My FE/23/11334801
