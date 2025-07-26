@@ -94,4 +94,4 @@ This showcase emphasized the power of reconnaissance as the first step in unders
 
 ## 🙌 Credits
 Built by DAHIRU MUSA ADAMU as part of the 3MTT July Knowledge showcase 2025 cohort3.
-Special thanks to [Mentor Name], and the 3MTT Cybersecurity community.
+Special thanks to [Mr.Alhassan odein Mr.Zulkiflu], and the 3MTT Cybersecurity community.
