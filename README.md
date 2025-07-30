@@ -74,11 +74,9 @@ SSL certificates are an essential part of online security. They are used to both
 in this the aims isto get familiar with SSL certificates and the information that they contain. This is an important part of our reconnaissance engagement . 
 
 this is the image of my teminal practically
-https://photos.app.goo.gl/saqzLYEmMZnzEAGD8
-https://photos.app.goo.gl/XS1DM2dQDMxN12TAA
-
-https://photos.app.goo.gl/sSiH6cvmfRaxz4rq9
-
+2.1 https://photos.app.goo.gl/saqzLYEmMZnzEAGD8
+2.2 https://photos.app.goo.gl/XS1DM2dQDMxN12TAA
+2.3 https://photos.app.goo.gl/sSiH6cvmfRaxz4rq9
 
 theHarvester
 
@@ -159,4 +157,4 @@ This showcase emphasized the power of reconnaissance as the first step in unders
 
 ## 🙌 Credits
 Built by DAHIRU MUSA ADAMU as part of the 3MTT July Knowledge showcase 2025 cohort3.
-Special thanks to [Mr.Alhassan odein Mr.Zulkiflu], and the 3MTT Cybersecurity community.
+Special thanks to [Mr.Alhassan Bala Mr.Zulkiflu], and the 3MTT Cybersecurity community.
