@@ -63,7 +63,10 @@ To start using Recon-ng, you simply run recon-ng from a new terminal window. Exa
 1.7![IMG_20250724_225426](https://github.com/user-attachments/assets/5275beb6-0475-4085-a4b9-35c96ec4c7ff)
 1.8![IMG_20250724_225442](https://github.com/user-attachments/assets/a1d7f138-5e72-4b50-8a35-04db1bada194)
 
+
 Cryptographic Flaws
+(SSLSCAN)
+
 During the reconnaissance phase, attackers often can inspect Secure Sockets Layer (SSL) certificates to obtain information about the organization, potential cryptographic flaws, and weak implementations. You can find a lot inside digital certificates: the certificate serial number, the subject common name, the uniform resource identifier (URI) of the server it was assigned to, the organization name, Online Certificate Status Protocol (OCSP) information, the certificate revocation list (CRL) URI, and so on.
 sslscan
 SSL certificates are an essential part of online security. They are used to both encrypt data as it transmitted and establish that a website can be trusted as a source or destination for data. It is important to understand the identification and encryption information that is available in SSL certificates. 
@@ -75,6 +78,56 @@ https://photos.app.goo.gl/saqzLYEmMZnzEAGD8
 https://photos.app.goo.gl/XS1DM2dQDMxN12TAA
 
 https://photos.app.goo.gl/sSiH6cvmfRaxz4rq9
+
+
+theHarvester
+
+theHarvester is an open-source reconnaissance tool used in cybersecurity to gather information (OSINT) about a target, such as emails, domain names, IPs, subdomains, and usernames. It’s especially useful during the reconnaissance phase of penetration testing or ethical hacking.
+
+🔍 Summary of theHarvester:
+
+Purpose: Information gathering (passive reconnaissance)
+
+Target Info: Emails, subdomains, IP addresses, hosts, open ports
+
+Sources: Uses public data sources like:
+THE POSSIBLE DATA SOURCE OF theHarvester
+anubis, baidu, bing, binary­edge, bingapi, buffer­overun, censys, certsp­otter, crtsh, dnsdum­pster, duckdu­ckgo, fullhunt, github­-code, google, hacker­target, hunter, intelx, linkedin, linked­in_­links, n45ht, omnisint, otx, pentes­ttools, projec­tdi­sco­very, qwant, rapiddns, rocket­reach, securi­tyT­rails, spyse, sublist3r, threat­crowd, threat­miner, trello, twitter, urlscan, virust­otal, yahoo, zoomeye
+
+Google
+
+Bing
+
+LinkedIn
+
+Shodan
+
+DNSDumpster
+
+and others
+
+
+Platforms: Works on Linux, Windows, and macOS
+
+Use Case: Identify potential attack vectors or weak spots in a target organization
+
+
+✅ Example Command:
+
+theHarvester -d example.com -b google
+
+> This collects emails and subdomains related to example.com using Google search.
+
+THE POSSIBLE DATA SOURCE OF theHarvester
+anubis, baidu, bing, binary­edge, bingapi, buffer­overun, censys, certsp­otter, crtsh, dnsdum­pster, duckdu­ckgo, fullhunt, github­-code, google, hacker­target, hunter, intelx, linkedin, linked­in_­links, n45ht, omnisint, otx, pentes­ttools, projec­tdi­sco­very, qwant, rapiddns, rocket­reach, securi­tyT­rails, spyse, sublist3r, threat­crowd, threat­miner, trello, twitter, urlscan, virust­otal, yahoo, zoomeye
+
+THIS IS MY LINUX TERMINAL PRACTICALLY TO GATHER INFORMATION ON THE ORACLE.ORG
+
+Using command theHarvester -d oracle -l 200 -b all -f oracle_result.txt
+
+https://photos.app.goo.gl/RsyPcTwFWqLT5PsG9
+https://photos.app.goo.gl/qpNrPwZFqiE28ZJy7
+https://photos.app.goo.gl/cVkoAix5mavWPh2YA
 
 - Nmap
 - Whois
