@@ -63,7 +63,12 @@ To start using Recon-ng, you simply run recon-ng from a new terminal window. Exa
 1.7![IMG_20250724_225426](https://github.com/user-attachments/assets/5275beb6-0475-4085-a4b9-35c96ec4c7ff)
 1.8![IMG_20250724_225442](https://github.com/user-attachments/assets/a1d7f138-5e72-4b50-8a35-04db1bada194)
 
+Cryptographic Flaws
+During the reconnaissance phase, attackers often can inspect Secure Sockets Layer (SSL) certificates to obtain information about the organization, potential cryptographic flaws, and weak implementations. You can find a lot inside digital certificates: the certificate serial number, the subject common name, the uniform resource identifier (URI) of the server it was assigned to, the organization name, Online Certificate Status Protocol (OCSP) information, the certificate revocation list (CRL) URI, and so on.
+sslscan
+SSL certificates are an essential part of online security. They are used to both encrypt data as it transmitted and establish that a website can be trusted as a source or destination for data. It is important to understand the identification and encryption information that is available in SSL certificates. 
 
+in this the aims isto get familiar with SSL certificates and the information that they contain. This is an important part of our reconnaissance . 
 - Nmap
 - Whois
 - Shodan
