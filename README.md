@@ -50,7 +50,18 @@ This module covers a number of individual sources and tools used for information
 
 Recon-ng is a modular framework, which makes it easy to develop and integrate new functionality. It is highly effective in social networking site enumeration because of its use of application programming interfaces (APIs) to gather information. It also includes a reporting feature that allows you to export data in different report formats. Because you will always need to provide some kind of deliverable in any testing you do, Recon-ng is especially valuable.
 
+
+
+statement of the problem
+1) How to lunch recon-ng ?
+2)How to access possible command by using Help?
+3) How to seach modules ?
+4)How to refresh recon-ng?
+5)How to install modules?
+6)How to load modules?
+7)How to change sources?
 Step 1: Start Recon-ng
+this is the image and my video link of my linkedin page i show it practically on how to solves that problems of the above.
 
 To start using Recon-ng, you simply run recon-ng from a new terminal window. Example 1.1 shows the command and the initial menu that Recon-ng starts with. 
 
