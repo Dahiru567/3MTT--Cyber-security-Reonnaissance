@@ -68,7 +68,14 @@ During the reconnaissance phase, attackers often can inspect Secure Sockets Laye
 sslscan
 SSL certificates are an essential part of online security. They are used to both encrypt data as it transmitted and establish that a website can be trusted as a source or destination for data. It is important to understand the identification and encryption information that is available in SSL certificates. 
 
-in this the aims isto get familiar with SSL certificates and the information that they contain. This is an important part of our reconnaissance . 
+in this the aims isto get familiar with SSL certificates and the information that they contain. This is an important part of our reconnaissance engagement . 
+
+this is the image of my teminal practically
+https://photos.app.goo.gl/saqzLYEmMZnzEAGD8
+https://photos.app.goo.gl/XS1DM2dQDMxN12TAA
+
+https://photos.app.goo.gl/sSiH6cvmfRaxz4rq9
+
 - Nmap
 - Whois
 - Shodan
