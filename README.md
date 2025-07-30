@@ -63,6 +63,10 @@ statement of the problem
 Step 1: Start Recon-ng
 this is the image and my video link of my linkedin page i show it practically on how to solves that problems of the above.
 
+MY LINKEDIN VIDEO POST LINK
+https://www.linkedin.com/posts/dahiru-musa-adamu-b49b26325_3mttlearningcommunity-my3mtt-3mttnigeria-activity-7354802911811461120-sPwf?utm_source=share&utm_medium=member_android&rcm=ACoAAFI25OkBC1S53QaA0e13c6Vh0C9Y0qsG8sE
+
+
 To start using Recon-ng, you simply run recon-ng from a new terminal window. Example 1.1 shows the command and the initial menu that Recon-ng starts with. 
 
 1.1 ![recon-ng](https://github.com/user-attachments/assets/f6860fa1-536b-40ee-a7cd-5a212d4727b6)
